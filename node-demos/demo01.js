@@ -1,3 +1,6 @@
+/**
+ * 创建第一个node程序
+ */
 var http = require("http");
 
 http.createServer(function(request,response){
